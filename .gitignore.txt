@@ -1,2 +1,4 @@
 arquivo-nao-publicado
 READMEteste
+teste.gitignore.txt
+
