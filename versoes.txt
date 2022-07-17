@@ -7,3 +7,6 @@ Alterçãona branch3
 
 Curso senai U7
 
+alteração feita pela branch exemplo-branch que foi criada a partir de outra branch
+
+
