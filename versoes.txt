@@ -9,4 +9,5 @@ Curso senai U7
 
 alteração feita pela branch exemplo-branch que foi criada a partir de outra branch
 
+Nesse projeto foi unificado as branch feita por mim e pelos colegas, ocorreu alguns conflitos que foram resolvidos optando por todas as alterações.
 
